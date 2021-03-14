@@ -91,7 +91,7 @@ def main():
 
     import sys
     print("Task number: ")
-    option = raw_input(" 1 - Event Numbers in 1:100 \n "
+    option = input(" 1 - Event Numbers in 1:100 \n "
                        "2 - Words ending in \'o\' and \'t\' \n "
                        "3 - Dictionary ops: \n "
                        "4 - Hypotenuse of triangle: \n "
